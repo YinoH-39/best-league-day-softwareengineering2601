@@ -6,6 +6,7 @@ const SLIDES = [
   { src: '3.jpg', caption: '全体成员合影' },
   { src: '2.jpg', caption: '观看历史照片展' },
   { src: '1.jpg', caption: '学习校园文化展' },
+  { src: '8.jpg', caption: '同学寄语' },
 ];
 
 const AUTOPLAY_MS = 4500;   
