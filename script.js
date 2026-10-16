@@ -1,11 +1,11 @@
 const SLIDES = [
-  { src: 'images/7.jpg', caption: '博物馆门前合影' },
-  { src: 'images/6.jpg', caption: '参观展厅' },
-  { src: 'images/5.jpg', caption: '参观校史长廊' },
-  { src: 'images/4.jpg', caption: '观看校歌乐谱展' },
-  { src: 'images/3.jpg', caption: '全体成员合影' },
-  { src: 'images/2.jpg', caption: '观看历史照片展' },
-  { src: 'images/1.jpg', caption: '学习校园文化展' },
+  { src: '7.jpg', caption: '博物馆门前合影' },
+  { src: '6.jpg', caption: '参观展厅' },
+  { src: '5.jpg', caption: '参观校史长廊' },
+  { src: '4.jpg', caption: '观看校歌乐谱展' },
+  { src: '3.jpg', caption: '全体成员合影' },
+  { src: '2.jpg', caption: '观看历史照片展' },
+  { src: '1.jpg', caption: '学习校园文化展' },
 ];
 
 const AUTOPLAY_MS = 4500;   
