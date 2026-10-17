@@ -7,6 +7,12 @@ const SLIDES = [
   { src: '2.jpg', caption: '观看历史照片展' },
   { src: '1.jpg', caption: '学习校园文化展' },
   { src: '8.jpg', caption: '同学寄语' },
+  { src: '9.jpg', caption: '学习回族民俗' },
+  { src: '10.jpg', caption: '学习回信精神主题团课' },
+  { src: '11.jpg', caption: '心理健康主题班会' },
+  { src: '12.jpg', caption: '数模竞赛讲座' },
+  { src: '13.jpg', caption: '广场舞活动' },
+  { src: '14.jpg', caption: '乒乓球比赛' },
 ];
 
 const AUTOPLAY_MS = 4500;   
